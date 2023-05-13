@@ -14,8 +14,6 @@ published to `thepiwo/node:18-debian-unstable`
 
 ## nginx
 
-adjusted from https://github.com/nginxinc/docker-nginx-unprivileged/tree/main/mainline/debian
-
-[Apache License 2.0](https://raw.githubusercontent.com/nginxinc/docker-nginx-unprivileged/main/LICENSE)
+somewhat trivial implementation, not sure if that's sufficient
 
 published to `thepiwo/nginx:debian-unstable` 
